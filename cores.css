@@ -1,0 +1,58 @@
+/*Estilização do site*/
+
+div {
+
+    display: inline-block;
+
+    border: 1px solid white;
+
+    width: 200px;
+
+    height: 200px;
+
+    margin: -3px;
+
+}
+
+#canto1, #canto2, #canto3, #canto4{
+
+    border: 1px solid black;
+
+    background-color:red;
+
+}
+
+.red, #red1, #red2 {
+
+    background-color:red;
+    
+}
+
+#red1 {
+
+    border-left: 1px solid black;
+}
+
+#red2 {
+
+    border-top: 1px solid black;
+}
+
+.azul{
+    
+    background-color:deepskyblue;
+
+}
+
+.verde{
+
+    background-color:forestgreen;
+}
+
+.ama{
+
+    background-color: yellow;
+}
+
+
+    
